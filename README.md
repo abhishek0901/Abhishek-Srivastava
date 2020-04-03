@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## About Me
+```I am pursuing master's in Artificial Intelligence from Northeastern University, Boston. Prior to this I was working as Software Development Engineer in British Telecom. My area of interest is reinforcement learning and natural language processing.```
 
-You can use the [editor on GitHub](https://github.com/abhishek0901/Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Current Projects
+I am working on reimplementing heads up limit texas holdem poker using counterfactual regret minimization.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Completed Projects
 
-### Markdown
+Recently I have implemented Alphago paper over [_Gomoku_](https://github.com/abhishek0901/gomoku).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Resume and Contact
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abhishek0901/Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[EMail](@srivastava.abh@northeastern.edu). [Resume](https://github.com/abhishek0901/Website/raw/master/ABHISHEK%20SRIVASTAVA%20(1).pdf)
